@@ -1,0 +1,15 @@
+.grid-container{
+    display: grid;
+    grid-template: 100px 50px / 50px 50px;
+    background-color: #E0F6FF;
+}
+
+.grid-item{
+    background-color: #1E96FF;
+    margin: 3px;
+}
+
+.grid-items{
+    background-color: purple;
+    margin: 3px;
+}
